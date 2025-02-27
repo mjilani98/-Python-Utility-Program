@@ -25,3 +25,28 @@
   -Sort student records from a file.
   
   -Implement a Rectangle class with methods to calculate area.
+  
+
+*Menu Options:
+
+  1-Compute Pi
+  
+  2-Compute Square Root
+  
+  3-Display Prime Numbers
+  
+  4-Process Student Scores
+  
+  5-Compute Tax
+  
+  6-Solve Quadratic Equation
+  
+  7-Sort List
+  
+  8-Generate User ID and Password
+  
+  9-Sort Data from a File
+  
+  10-Quit
+
+
